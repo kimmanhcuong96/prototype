@@ -1,0 +1,9 @@
+#modal-loading {
+    width: 70px;
+    height: 70px;
+    opacity: 0.9;
+}
+
+#modal-loading .show-loading{
+    opacity: 0.9;
+}

@@ -1,0 +1,22 @@
+
+#keywordSelectionPage #keyword-selection-container #keyword-selection{
+    margin-top: 30px;
+}
+
+#keywordSelectionPage #keyword-selection-container .paginate-selection{
+    margin-top: 20px;
+    justify-content: flex-end !important;
+}
+
+#keywordSelectionPage #keyword-selection-container #pagination{
+    justify-content: flex-end;
+}
+
+#keywordSelectionPage .row {
+    margin-right: auto;
+    margin-left: auto;
+}
+
+span {
+    word-wrap: break-word;
+}

@@ -1,0 +1,12 @@
+ #learningPage #learningContainer .add-subtract-button{
+     width: 38px;
+     display: flex;
+     justify-content: center;
+ }
+
+ #learningPage .row{
+     margin-right: auto;
+     margin-left: auto;
+ }
+
+ 

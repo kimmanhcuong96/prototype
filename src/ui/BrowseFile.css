@@ -1,0 +1,17 @@
+#BrowseFile .custom-input-file{
+    border: solid #ced4da 1px;
+    border-radius: 5px;
+    display: flex;
+    margin-top: 10px;
+}
+
+#BrowseFile  #file-upload-name{
+    padding-left: 5px;
+    margin-top: auto;
+    margin-bottom: auto;
+}
+
+#BrowseFile .browser-button{
+    justify-content: flex-end;
+    margin-left: auto;
+}

@@ -1,0 +1,6 @@
+ [
+ { "key": "機器", "value": "バルブ", "synonyms": [ "弁" ] },
+ { "key": "機器", "value": "モータ", "synonyms": [ "モーター", "電動機" ] },
+ { "key": "現象", "value": "ショート", "synonyms": [ "短絡" ] },
+ { "key": "現象", "value": "折損", "synonyms": [ "折れる" ] }
+ ]

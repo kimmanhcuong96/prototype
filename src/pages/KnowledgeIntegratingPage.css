@@ -1,0 +1,10 @@
+ #integratingPage #integratingContainer .add-subtract-button{
+    width: 38px;
+    display: flex;
+    justify-content: center;
+}
+
+#integratingPage .row{
+    margin-left: auto;
+    margin-right: auto;
+}

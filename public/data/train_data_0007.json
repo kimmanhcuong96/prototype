@@ -1,0 +1,53 @@
+[
+   {
+      "content" : "某企業より表記の依頼が当社にあり、ソリューションを探しておりました。  至急、製品概要、仕様、前提条件及び価格が知りたい。",
+      "expressions" : [
+         {
+            "end" : 24,
+            "key" : "Object",
+            "start" : 17
+         },
+         {
+            "end" : 43,
+            "key" : "Consultation",
+            "start" : 41
+         },
+         {
+            "end" : 46,
+            "key" : "Consultation",
+            "start" : 44
+         },
+         {
+            "end" : 51,
+            "key" : "Consultation",
+            "start" : 47
+         }
+      ],
+      "relations" : [
+         {
+            "end_left" : 24,
+            "end_right" : 43,
+            "instance_type" : 1,
+            "key" : "Relation",
+            "start_left" : 17,
+            "start_right" : 41
+         },
+         {
+            "end_left" : 24,
+            "end_right" : 46,
+            "instance_type" : 1,
+            "key" : "Relation",
+            "start_left" : 17,
+            "start_right" : 44
+         },
+         {
+            "end_left" : 24,
+            "end_right" : 51,
+            "instance_type" : 1,
+            "key" : "Relation",
+            "start_left" : 17,
+            "start_right" : 47
+         }
+      ]
+   }
+]

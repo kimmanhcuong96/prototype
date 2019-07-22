@@ -1,0 +1,40 @@
+[
+   {
+      "content" : "本件、概要は理解できました。  さて、商流ですが、御社→当社（たけのこ銀行）→エンドユーザ  ということになります。　リカイヤスの月額費用で当社が仲介役で  商流に絡むことは可能でしょうか。",
+      "expressions" : [
+         {
+            "end" : 21,
+            "key" : "Consultation",
+            "start" : 19
+         },
+         {
+            "end" : 64,
+            "key" : "Object",
+            "start" : 59
+         },
+         {
+            "end" : 81,
+            "key" : "Consultation",
+            "start" : 79
+         }
+      ],
+      "relations" : [
+         {
+            "end_left" : 64,
+            "end_right" : 81,
+            "instance_type" : 1,
+            "key" : "Relation",
+            "start_left" : 59,
+            "start_right" : 79
+         },
+         {
+            "end_left" : 64,
+            "end_right" : 21,
+            "instance_type" : 1,
+            "key" : "Relation",
+            "start_left" : 59,
+            "start_right" : 19
+         }
+      ]
+   }
+]

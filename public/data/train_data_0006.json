@@ -1,0 +1,124 @@
+[
+   {
+      "content" : "貴社が提供されている”RECAIUS コンタクトセンタープラス”に  弊社情報がお役に立てるのではないかと思い、ご連絡させていただきました。    弊社リバーソリューションは日本全国の地図を製作しており、  日本全国の住所名称と建物名称を所有しております。  また、いずれにもヨミ仮名の整備を進めております。貴社の”RECAIUS コンタクトセンタープラス”において、  より正確な音声認識の実現にあたり、  住所名称や建物名称のヨミ仮名のニーズは御座いませんでしょうか？",
+      "expressions" : [
+         {
+            "end" : 18,
+            "key" : "Object",
+            "start" : 11
+         },
+         {
+            "end" : 31,
+            "key" : "Object",
+            "start" : 19
+         },
+         {
+            "end" : 142,
+            "key" : "Consultation",
+            "start" : 138
+         },
+         {
+            "end" : 165,
+            "key" : "Object",
+            "start" : 158
+         },
+         {
+            "end" : 178,
+            "key" : "Object",
+            "start" : 166
+         },
+         {
+            "end" : 195,
+            "key" : "Object",
+            "start" : 191
+         },
+         {
+            "end" : 219,
+            "key" : "Consultation",
+            "start" : 215
+         }
+      ],
+      "relations" : [
+         {
+            "end_left" : 18,
+            "end_right" : 142,
+            "instance_type" : 1,
+            "key" : "Relation",
+            "start_left" : 11,
+            "start_right" : 138
+         },
+         {
+            "end_left" : 18,
+            "end_right" : 219,
+            "instance_type" : 1,
+            "key" : "Relation",
+            "start_left" : 11,
+            "start_right" : 215
+         },
+         {
+            "end_left" : 31,
+            "end_right" : 142,
+            "instance_type" : 1,
+            "key" : "Relation",
+            "start_left" : 19,
+            "start_right" : 138
+         },
+         {
+            "end_left" : 31,
+            "end_right" : 219,
+            "instance_type" : 1,
+            "key" : "Relation",
+            "start_left" : 19,
+            "start_right" : 215
+         },
+         {
+            "end_left" : 165,
+            "end_right" : 142,
+            "instance_type" : 1,
+            "key" : "Relation",
+            "start_left" : 158,
+            "start_right" : 138
+         },
+         {
+            "end_left" : 165,
+            "end_right" : 219,
+            "instance_type" : 1,
+            "key" : "Relation",
+            "start_left" : 158,
+            "start_right" : 215
+         },
+         {
+            "end_left" : 178,
+            "end_right" : 142,
+            "instance_type" : 1,
+            "key" : "Relation",
+            "start_left" : 166,
+            "start_right" : 138
+         },
+         {
+            "end_left" : 178,
+            "end_right" : 219,
+            "instance_type" : 1,
+            "key" : "Relation",
+            "start_left" : 166,
+            "start_right" : 215
+         },
+         {
+            "end_left" : 195,
+            "end_right" : 142,
+            "instance_type" : 1,
+            "key" : "Relation",
+            "start_left" : 191,
+            "start_right" : 138
+         },
+         {
+            "end_left" : 195,
+            "end_right" : 219,
+            "instance_type" : 1,
+            "key" : "Relation",
+            "start_left" : 191,
+            "start_right" : 215
+         }
+      ]
+   }
+]
